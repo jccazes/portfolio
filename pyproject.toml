@@ -7,6 +7,10 @@ authors = ["jccazes <cazes.jean.christophe@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pre-commit = "^2.20.0"
+jupyter = "^1.0.0"
+numpy = "^1.23.1"
+pandas = "^1.4.3"
+yfinance = "^0.1.74"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
